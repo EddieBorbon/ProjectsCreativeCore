@@ -21,6 +21,7 @@ Throughout the course, I acquired creative superpowers 💥 in the following are
 
 Before diving into this project, make sure you’ve installed the following packages from Unity’s **Package Manager**:
 
+- 🧩 **CatUICO**
 - 🎞️ **Cinematic Studio V**
 - ⚙️ **Engineering V**
 - 🌟 **High Definition RP 12.1.13**
@@ -42,13 +43,13 @@ Before diving into this project, make sure you’ve installed the following pack
 Here are the awesome projects I developed during the course 🎉:
 
 1. 🏖️ **BeachSide Town Game**
-   - 🎥 Video: [Watch on YouTube](https://youtu.be/-NzHwYU3l04)
-   - 🎮 Play: [Play on Unity Play](https://play.unity.com/en/games/c3b95585-88c0-4fb9-88fe-9b7190ac6b62/beachside)
+   - 🎥 Video: <a href="https://youtu.be/-NzHwYU3l04" target="_blank">Watch on YouTube</a>
+   - 🎮 Play: <a href="https://play.unity.com/en/games/c3b95585-88c0-4fb9-88fe-9b7190ac6b62/beachside" target="_blank">Play on Unity Play</a>
 
 2. 🏙️ **Architectural Rendering**
-   - 🎥 Video: [Watch on YouTube](https://youtu.be/7VDi68WkzlA)
-   - 🎮 Play: [Play on Unity Play](https://play.unity.com/en/games/9bfc0070-19cd-4369-96d5-9519d7892d6c/architectural-rendering)
+   - 🎥 Video: <a href="https://youtu.be/7VDi68WkzlA" target="_blank">Watch on YouTube</a>
+   - 🎮 Play: <a href="https://play.unity.com/en/games/9bfc0070-19cd-4369-96d5-9519d7892d6c/architectural-rendering" target="_blank">Play on Unity Play</a>
 
 3. 👾 **Alien Store Game**
-   - 🎥 Video: [Watch on YouTube](https://youtu.be/zCIsFr-vCZA)
-   - 🎮 Play: [Play on Unity Play](https://play.unity.com/en/games/3d1c88a7-3ca2-42a2-87c8-06a70eeb2d38/alien-video-game-shop)
+   - 🎥 Video: <a href="https://youtu.be/zCIsFr-vCZA" target="_blank">Watch on YouTube</a>
+   - 🎮 Play: <a href="https://play.unity.com/en/games/3d1c88a7-3ca2-42a2-87c8-06a70eeb2d38/alien-video-game-shop" target="_blank">Play on Unity Play</a>
